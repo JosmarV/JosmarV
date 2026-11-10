@@ -47,7 +47,5 @@
 <details>
   <summary>⚡ View My Stats</summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=JosmarV&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosmarV&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosmarV&theme=tokyonight" alt="GitHub Streak" />
 </details>
