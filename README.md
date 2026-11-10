@@ -35,6 +35,13 @@
 
 ---
 
+### 🖥️ Setup & Environment
+
+![Linux](https://img.shields.io/badge/OS-Linux%20%2F%20Windows-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Intel i5](https://img.shields.io/badge/CPU-Intel%20Core%20i5--12th%20Gen-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white)
+
+---
+
 ### 📊 GitHub Stats
 
 <details>
